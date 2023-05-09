@@ -46,5 +46,5 @@ unicast_peer {
 }
 }
 ```
-![alt text]([https://github.com/SemikovaTV/hw_keepalived/blob/main/1.jpg])
-![alt text]([https://github.com/SemikovaTV/hw_keepalived/blob/main/2.jpg])
+![alt text](https://github.com/SemikovaTV/hw_keepalived/blob/main/1.jpg)
+![alt text](https://github.com/SemikovaTV/hw_keepalived/blob/main/2.jpg)
